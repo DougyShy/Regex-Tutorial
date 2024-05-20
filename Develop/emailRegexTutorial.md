@@ -10,11 +10,11 @@ You can even tweak it to your specific standards to only allow certain character
 You typically see this regex used on login and sign in pages as well as in password/account recovery.  
 The regex code in Javascript would be as follows:
 
-// Declare a regular expression to 'test' any email string attempt
-sconst regexTestEmail = /^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})*$/
+// Declare a regular expression to 'test' any email string attempts  
+const regexTestEmail = /^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})*$/
 
 
-// Create an email to test  
+// Create an email to test   
 const testEmail = 'doug_scheible@yahoo.com';  
 
 // Test email string - EXAMPLES
@@ -159,8 +159,10 @@ passed to the backend.
 
 (5.20.24)
 
-My name is Doug Scheible. Currently I am attending a UTSA Fullstack Development Bootcamp. I enjoy web development and problem solving. I am a beginner/amatuer coder who has entry level experience mostly in Javascrip, SQL, and Python
-Gist: https://gist.github.com/DougyShy/74fbcab699bfebf8ce688c10beba14db
-Github: https://github.com/DougyShy
-Email: doug_scheible@yahoo.com
-Fell free to text me @ 123.456.7890
+My name is Doug Scheible. Currently I am attending a UTSA Fullstack Development Bootcamp. I enjoy web development and problem solving.  
+I am a beginner/amatuer coder who has entry level experience mostly in Javascrip, SQL, and Python  
+Gist: https://gist.github.com/DougyShy/74fbcab699bfebf8ce688c10beba14db  
+Github: https://github.com/DougyShy  
+Email: doug_scheible@yahoo.com  
+Fell free to text me @ 123.456.7890  
+
